@@ -16,7 +16,7 @@ if (score >= 90 && score <= 100) {
 } else if (score >= 50 && score <= 69) {
     grade = 'D';
 } else {
-    grade = 'B';
+    grade = 'F';
 }
 
 console.log(grade)
